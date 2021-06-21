@@ -1,0 +1,24 @@
+必读https://developer.android.com/codelabs/kotlin-android-training-available-resources#4
+5. Task: Explore docs and other resources
+Step 1: Explore the official Android documentation
+Explore a few of the most useful Android documentation sites and become familiar with what's available:
+
+Go to developer.android.com. This official Android developer documentation is kept current by Google.
+Go to developer.android.com/design/. This site offers guidelines for designing the look and functionality of high-quality Android apps.
+Go to material.io, which is a site about Material Design. Material Design is a conceptual design philosophy that outlines how all apps, not just Android apps, should look and function on mobile devices. Navigate the links to learn more about Material Design. For example, to learn about the use of color, click the Design tab, then select Color.
+Go to developer.android.com/docs/ to find API information, reference documentation, tutorials, tool guides, and code samples.
+Go to developer.android.com/distribute/ to find information about publishing an app on Google Play. Google Play is Google's digital distribution system for apps developed with the Android SDK. Use the Google Play Console to grow your user base and start earning money.
+Step 2: Explore content from the Android team and Google Search
+Explore the Android Developer YouTube channel, which is a great source of tutorials and tips.
+Visit the official Android blog, where the Android team posts news and tips.
+Enter a question into Google Search, and the Google Search engine collects relevant results from various resources. For example, use Google Search to ask the question, "What is the most popular Android OS version in India?" You can even enter error messages in Google Search.
+Step 3: Search on Stack Overflow
+Stack Overflow is a community of programmers helping each other. If you run into a problem, chances are high that someone has already posted an answer.
+
+Go to Stack Overflow.
+In the search box, enter a question such as "How do I set up and use ADB over Wi-Fi?" You can search on Stack Overflow without registering, but if you want to post a new question or answer a question, you need to register.
+In the search box, enter [android]. The [] brackets indicate that you want to search for posts that have been tagged as being about Android.
+You can combine tags and search terms to make your search more specific. Try these searches:
+[android] and [layout]
+[android] "hello world"
+Google Samples contains code samples that you can study, copy, and incorporate into your projects.
